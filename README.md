@@ -15,3 +15,4 @@ Technologies Used:
 •	HTML/CSS
 
 ![image alt](https://github.com/Iamfouzia/Student_Registration_Form_PHP/blob/main/ss1.png?raw=true)
+![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/2.png)
