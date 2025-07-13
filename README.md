@@ -19,7 +19,7 @@ Technologies Used:
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s3.png)
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s4.png)
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s5.png)
-![image alt] (https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s6.png)
-![image alt] (https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/S78.png)
+![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s6.png)
+![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/S78.png)
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s7.png)
 
