@@ -22,5 +22,5 @@ Technologies Used:
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s6.png)
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/S78.png)
 ![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/f7016f90ffc977673c22eb5e0d3c09720a1e36f9/s7.png)
-![image alt]((https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/57950c89f8fe9b3578e0ce9a2293a1cd13005f7b/SQL_SS.jpg)
+![image alt](https://raw.githubusercontent.com/Iamfouzia/Student_Registration_Form_PHP/57950c89f8fe9b3578e0ce9a2293a1cd13005f7b/SQL_SS.jpg)
 
